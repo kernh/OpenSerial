@@ -5,7 +5,11 @@ significance.
 ============================================================================
 6/25/17: Fix output of a pcm file for other Records when aligning whole tilt
 series in IMOD, and two other issues when frame-saving is automatically
-imposed with aligning in IMOD.
+imposed with aligning in IMOD (In 3.6).
+
+6/24/17: Added script command to set frame rate of DE camera.
+
+6/24/17: Preliminary support for new FEI camera interface and Falcon 3 added.
 
 6/15/17: Added property to set the maximum beam radius allowed when centering
 beam with low dose tracking images in tilt series (In 3.6).
